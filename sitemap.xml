@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/index</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/store</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/reviews</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/gallery-All</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/gallery-Interior-Painting</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/gallery-Exterior-Painting</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/gallery-Carpentry-and-Staining</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/service-Interior-Painting</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/service-Exterior-Painting</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/service-Kitchen-and-Cabinet-Refinishing</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/service-Carpentry</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/service-Flooring</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://kennyspaintingandrenovationsllc.com/service-Staining</loc>
+        <lastmod>2022-06-09</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
