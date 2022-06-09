@@ -966,7 +966,7 @@
     <div
         x-data="{
         activeImage: 1,
-        amountOfImages: 4,
+        amountOfImages: 2,
         loop() {
             setInterval(() => { this.activeImage = this.activeImage === this.amountOfImages ? 1 : this.activeImage + 1 }, 5000)
         },
@@ -987,23 +987,6 @@
         >
             <img
                 class="object-cover w-full h-72 md:h-96 lg:w-full lg:h-full"
-                src="https://landing-page-app-hero-images.s3.amazonaws.com/media/8717c80a-266f-4833-9cba-9c5ce928f173.jpeg"
-                alt="painters near me company Kenny’s Painting &amp; Renovations, LLC. in Paragould, AR"
-            />
-        </div>
-        
-        <div
-            class="absolute inset-0"
-            x-show="activeImage === 2"
-            x-transition:enter="transition duration-1000"
-            x-transition:enter-start="transform translate-x-full"
-            x-transition:enter-end="transform translate-x-0"
-            x-transition:leave="transition duration-1000"
-            x-transition:leave-start="transform"
-            x-transition:leave-end="transform -translate-x-full"
-        >
-            <img
-                class="object-cover w-full h-72 md:h-96 lg:w-full lg:h-full"
                 src="https://landing-page-app-hero-images.s3.amazonaws.com/media/bffbf4fa-cb2a-4b44-afa2-e7edf04d68e8.jpeg"
                 alt="painters near me company Kenny’s Painting &amp; Renovations, LLC. in Paragould, AR"
             />
@@ -1011,24 +994,7 @@
         
         <div
             class="absolute inset-0"
-            x-show="activeImage === 3"
-            x-transition:enter="transition duration-1000"
-            x-transition:enter-start="transform translate-x-full"
-            x-transition:enter-end="transform translate-x-0"
-            x-transition:leave="transition duration-1000"
-            x-transition:leave-start="transform"
-            x-transition:leave-end="transform -translate-x-full"
-        >
-            <img
-                class="object-cover w-full h-72 md:h-96 lg:w-full lg:h-full"
-                src="https://landing-page-app-hero-images.s3.amazonaws.com/media/14ee6328-b815-47b8-adee-d8aaf40d3aee.jpeg"
-                alt="painters near me company Kenny’s Painting &amp; Renovations, LLC. in Paragould, AR"
-            />
-        </div>
-        
-        <div
-            class="absolute inset-0"
-            x-show="activeImage === 4"
+            x-show="activeImage === 2"
             x-transition:enter="transition duration-1000"
             x-transition:enter-start="transform translate-x-full"
             x-transition:enter-end="transform translate-x-0"
